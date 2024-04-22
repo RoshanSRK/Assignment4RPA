@@ -3,12 +3,16 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "BalaReva.EasyExcel.Activities": "[32.0.0]",
+    "BalaReva.Excel.Activities": "[2021.1.0]",
+    "ChartCreator": "[1.0.0]",
     "SelfClosingAlertBox.Activities": "[1.0.0]",
     "UiPath.Database.Activities": "[1.5.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.5]",
-    "UiPath.UIAutomation.Activities": "[21.10.6]"
+    "UiPath.UIAutomation.Activities": "[21.10.6]",
+    "UiPathTeam.ExtractExcelCharts.Activities": "[1.0.2]"
   },
   "webServices": [],
   "entitiesStores": [],
